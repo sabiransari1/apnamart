@@ -20,11 +20,11 @@ Welcome and appreciate all contributions to the Apnamart! Whether you want to re
 ## Instructions
 To contribute to the Apnamart, follow these steps:-
 
-- Fork this repository to your own GitHub account.
-- Clone the forked repository to your local machine.
-- Make your desired contributions, whether it's implementing new features, fixing bugs, or improving existing functionality.
-- Commit and push your changes to your forked repository.
-- Submit a pull request, and we'll review your changes.
+- Fork this repository to your own GitHub account
+- Clone the forked repository to your local machine
+- Make your desired contributions, whether it's implementing new features, fixing bugs, or improving existing functionality
+- Commit and push your changes to your forked repository
+- Submit a pull request, and we'll review your changes
 
 
 ## Report bugs
