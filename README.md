@@ -24,7 +24,7 @@ To contribute to the Apnamart, follow these steps:
 
 
 ## Report bugs
-If you encounter any bugs while using the dashboard, please let us know by opening an issue and providing details about the problem you experienced.
+If you encounter any bugs while using the application, please let us know by opening an issue and providing details about the problem you experienced.
 Contribute code: If you're a developer and want to contribute to the dashboard's development, follow the instructions below to get started:
 
 ## Suggestions
